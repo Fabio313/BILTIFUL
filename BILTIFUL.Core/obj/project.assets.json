@@ -900,11 +900,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fabio Z Ferrenha\\Desktop\\BILTIFUL FABIO\\BILTIFUL.Core\\BILTIFUL.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Fabio Z Ferrenha\\Desktop\\BILTUFUL FABIO 2\\BILTIFUL.Core\\BILTIFUL.Core.csproj",
       "projectName": "BILTIFUL.Core",
-      "projectPath": "C:\\Users\\Fabio Z Ferrenha\\Desktop\\BILTIFUL FABIO\\BILTIFUL.Core\\BILTIFUL.Core.csproj",
+      "projectPath": "C:\\Users\\Fabio Z Ferrenha\\Desktop\\BILTUFUL FABIO 2\\BILTIFUL.Core\\BILTIFUL.Core.csproj",
       "packagesPath": "C:\\Users\\Fabio Z Ferrenha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fabio Z Ferrenha\\Desktop\\BILTIFUL FABIO\\BILTIFUL.Core\\obj\\",
+      "outputPath": "C:\\Users\\Fabio Z Ferrenha\\Desktop\\BILTUFUL FABIO 2\\BILTIFUL.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -918,11 +918,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fabio Z Ferrenha\\Desktop\\BILTIFUL FABIO\\BILTIFUL.ModuloVenda\\BILTIFUL.ModuloVenda.csproj",
+      "projectUniqueName": "C:\\Users\\Fabio Z Ferrenha\\Desktop\\BILTUFUL FABIO 2\\BILTIFUL.ModuloVenda\\BILTIFUL.ModuloVenda.csproj",
       "projectName": "BILTIFUL.ModuloVenda",
-      "projectPath": "C:\\Users\\Fabio Z Ferrenha\\Desktop\\BILTIFUL FABIO\\BILTIFUL.ModuloVenda\\BILTIFUL.ModuloVenda.csproj",
+      "projectPath": "C:\\Users\\Fabio Z Ferrenha\\Desktop\\BILTUFUL FABIO 2\\BILTIFUL.ModuloVenda\\BILTIFUL.ModuloVenda.csproj",
       "packagesPath": "C:\\Users\\Fabio Z Ferrenha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fabio Z Ferrenha\\Desktop\\BILTIFUL FABIO\\BILTIFUL.ModuloVenda\\obj\\",
+      "outputPath": "C:\\Users\\Fabio Z Ferrenha\\Desktop\\BILTUFUL FABIO 2\\BILTIFUL.ModuloVenda\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -943,8 +943,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Fabio Z Ferrenha\\Desktop\\BILTIFUL FABIO\\BILTIFUL.Core\\BILTIFUL.Core.csproj": {
-              "projectPath": "C:\\Users\\Fabio Z Ferrenha\\Desktop\\BILTIFUL FABIO\\BILTIFUL.Core\\BILTIFUL.Core.csproj"
+            "C:\\Users\\Fabio Z Ferrenha\\Desktop\\BILTUFUL FABIO 2\\BILTIFUL.Core\\BILTIFUL.Core.csproj": {
+              "projectPath": "C:\\Users\\Fabio Z Ferrenha\\Desktop\\BILTUFUL FABIO 2\\BILTIFUL.Core\\BILTIFUL.Core.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ktyRuZa1X3tSm+yzY6fDi5Du7Zn2UwOW7ehPw/+UA7kUIcngurU+8McnpSN5QjsqLH9WlX+uTsFTuitgc7SwUA==",
+  "dgSpecHash": "R9O1ovrbiY4by1k/ElAv/DsYUdL36ARK7vgnVJHR3uaIp1RutNlw0ObdlVSGTDS40ViuViAaNcOdH5r5To/X5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fabio Z Ferrenha\\Desktop\\BILTIFUL FABIO\\BILTIFUL.Core\\BILTIFUL.Core.csproj",
+  "projectFilePath": "C:\\Users\\Fabio Z Ferrenha\\Desktop\\BILTUFUL FABIO 2\\BILTIFUL.Core\\BILTIFUL.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fabio Z Ferrenha\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
     "C:\\Users\\Fabio Z Ferrenha\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
